@@ -1,6 +1,5 @@
-# Software Engineering
-
-Software Engineering is a course taught at the Technion that focuses on OOP in Java.
+# Pirate Bot
+Pirate bot to mine your pirates points automatically
 
 ## Installation
 1. install selenium
