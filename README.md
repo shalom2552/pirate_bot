@@ -13,6 +13,7 @@ Enjoy!!
 
 
 ```bash
+sudo apt-get -y install python3 python3-pip
 pip install -U selenium
 ```
 2. install chrome driver
