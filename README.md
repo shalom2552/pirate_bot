@@ -1,5 +1,12 @@
 # Pirate Bot
-Pirate bot to mine your pirates points automatically
+We all know how tough it can be to return every now and then to go into a pirate raid.
+Well, not anymore.
+This bot will do it for you!
+After logging into your account via the log.txt file, it will automatically navigate to the pirate building in your city.
+It will then navigate to the pirate building and begin mining your points.
+You can leave the bot running as long as you like since it will know when to raid again.
+Additionally, it can generate your current score and append it to the CSV file for analysis.
+Enjoy!!
 
 ## Installation
 1. install selenium
@@ -28,14 +35,6 @@ echo "mail@mail.com, password" > lof.txt
 python3 pyinstaller.py
 ```
 
-## Description
-We all know how tough it can be to return every now and then to go into a pirate raid.
-Well, not anymore.
-This bot will do it for you!
-After logging into your account via the log.txt file, it will automatically navigate to the pirate building in your city.
-It will then navigate to the pirate building and begin mining your points.
-You can leave the bot running as long as you like since it will know when to raid again.
-Enjoy!!
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
