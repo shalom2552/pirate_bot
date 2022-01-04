@@ -9,29 +9,29 @@ Additionally, it can generate your current score and append it to the CSV file f
 Enjoy!!
 
 ## Installation
-1. install selenium
+1. Install selenium
 
 
 ```bash
 sudo apt-get -y install python3 python3-pip
 pip install -U selenium
 ```
-2. install chrome driver
+2. Install chrome driver
 ```bash
 sudo apt update
 sudo apt install google-chrome
 sudo apt install chrome-driver-{your_version}
 ```
-3. make a driver location path varibale
+3. Create a driver location path varibale
 ```bash
 export PATH=$PATH:/place/with/the/file
 ```
-4. make a login file 'log.txt'
+4. Create a login file 'log.txt'
 ```bash
 touch log.txt
 echo "mail@mail.com, password" > log.txt
 ```
-5. run pyinstaller.py
+5. Run pyinstaller.py
 ```bash
 python3 pyinstaller.py
 ```
