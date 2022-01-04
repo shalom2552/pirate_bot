@@ -28,7 +28,7 @@ export PATH=$PATH:/place/with/the/file
 4. make a login file 'log.txt'
 ```bash
 touch log.txt
-echo "mail@mail.com, password" > lof.txt
+echo "mail@mail.com, password" > log.txt
 ```
 5. run pyinstaller.py
 ```bash
