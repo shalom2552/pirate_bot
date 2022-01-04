@@ -18,10 +18,10 @@ pip install -U selenium
 2. install chrome driver
 ```bash
 sudo apt update
-sudo apt install google-chrom
+sudo apt install google-chrome
 sudo apt install chrome-driver-{your_version}
 ```
-3. make a driver location varibale
+3. make a driver location path varibale
 ```bash
 export PATH=$PATH:/place/with/the/file
 ```
