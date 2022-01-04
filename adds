@@ -1,0 +1,7 @@
+1. add chaptch check
+
+block
+<img class="captchaImage" src="?action=Options&function=createCaptcha&rand=710282525">
+
+input
+<input type="text" class="textfield validate[required,custom[noSpecialCharacters]]" id="captcha" name="captcha" value maxlength="10">
