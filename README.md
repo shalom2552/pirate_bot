@@ -1,5 +1,5 @@
-# Pirate Bot
-We all know how tough it can be to return every now and then to go into a pirate raid.
+# Pirate Bot for Ikariam
+We all know how tough it can be to return every now and then to go into a pirate raid in Ikariam game.
 Well, not anymore.
 This bot will do it for you!
 After logging into your account via the log.txt file, it will automatically navigate to the pirate building in your city.
