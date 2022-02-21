@@ -31,9 +31,9 @@ export PATH=$PATH:/place/with/the/file
 touch log.txt
 echo "mail@mail.com, password" > log.txt
 ```
-5. Run pyinstaller.py
+5. Run pirate.py
 ```bash
-python3 pyinstaller.py
+python3 pirate.py log.txt
 ```
 
 
