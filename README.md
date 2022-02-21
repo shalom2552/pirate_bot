@@ -44,4 +44,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 [shalom2552](https://github.com/shalom2552)
-@shalas45 The software and all code files are under the copyright protection of shalas45. Transferring the software without permission is a violation of the manufacturer's rights.
+@shalom2552 The software and all code files are under the copyright protection of shalas45. Transferring the software without permission is a violation of the manufacturer's rights.
